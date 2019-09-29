@@ -1,0 +1,4 @@
+name: TestModule
+version: 1.0.0
+main: net.pwing.races.module.testmodule.TestModule
+author: Redned
